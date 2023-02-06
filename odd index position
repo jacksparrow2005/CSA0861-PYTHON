@@ -1,0 +1,5 @@
+odList = [14, 35, 78, 90, 120, 67, 98]
+i = 0
+while i < len (odList):
+    print (odList [i], end = ' ')
+    i = i + 2 
